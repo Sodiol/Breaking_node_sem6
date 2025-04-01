@@ -22,13 +22,13 @@
 
  `no-undef`: Muestra un error si se intenta usar una variable que no ha sido definida.
 
- ```{
+ ``{
   "extends": "eslint:recommended",
   "rules": {
     "no-unused-vars": "warn",
     "no-undef": "error"
   }
- }
+ }``
 
  ## 🛠️ ¿Cómo usar ESLint?
 
