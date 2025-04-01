@@ -44,10 +44,10 @@
 
  Usando el archivo index.js 
 
- ```var mensaje = 'Hola, mundo!'; 
+ ``var mensaje = 'Hola, mundo!'; 
  console.log(mensaje);
 
- const test = someUndefinedVariable;```
+ const test = someUndefinedVariable;``
 
  Uso el comando
 
@@ -55,7 +55,7 @@
 
  Dando como resultado
 
-  4:7   error  'test' is assigned a value but never used  no-unused-vars
+  ```4:7   error  'test' is assigned a value but never used  no-unused-vars
   4:14  error  'someUndefinedVariable' is not defined     no-undef
 
   ✖ 2 problems (2 errors, 0 warnings)
