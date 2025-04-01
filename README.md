@@ -28,7 +28,7 @@
     "no-unused-vars": "warn",
     "no-undef": "error"
   }
- }```
+ }
 
  ## 🛠️ ¿Cómo usar ESLint?
 
